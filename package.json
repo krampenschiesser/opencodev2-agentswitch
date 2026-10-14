@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
   "name": "opencodev2-agentswitch",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Agent switch tool",
   "type": "module",
   "license": "MIT",
